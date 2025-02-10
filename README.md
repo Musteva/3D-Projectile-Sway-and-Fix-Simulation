@@ -12,7 +12,7 @@ It also introduces a sway effect mid-flight, meaning the projectile gets thrown 
 
 ## What It Does
 
-- Generates random environment and projectile properties
+- Takes input as environment and projectile variables
 - Simulates normal projectile motion without disturbances
 - Introduces a random mid-flight disturbance (sway)
 - Tries to correct the projectile's path so it still reaches the original target
